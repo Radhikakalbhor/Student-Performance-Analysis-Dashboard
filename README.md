@@ -74,19 +74,17 @@ The dashboard provides insights into:
 
 ---
 
-## Dashboard Preview
-
 ### Home Page
 
-![Home Page](images/Home_Page.jpeg)
+![Home Page](Images/Home%20Page.jpeg)
 
 ### Teacher Dashboard
 
-![Teacher_Dashboard](images/Teacher_Dashboard.jpeg)
+![Teacher Dashboard](Images/Teacher_Dashboard.jpeg)
 
 ### Student Dashboard
 
-![Student_Dashboard](images/Student_Dashboard.jpeg)
+![Student Dashboard](Images/Student_Dashboard.jpeg)
 
 V
 ## Key Insights
